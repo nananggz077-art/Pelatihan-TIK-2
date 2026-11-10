@@ -1,13 +1,13 @@
 body {
   background-image: blue;
     font-family: Times New Roman, sans-serif; 
-    color: black;
+    color: white;
 }
 .kartu-profil {
   width: 300px;
   margin: 50px auto;
   padding: 20px;
-  background-color: blue;
+  background-color: 146, 87, 255;
   border-radius:15px;
   box-shadow: 0 4px rgba(0,0,0.1);
   text-align: center;
