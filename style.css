@@ -1,10 +1,10 @@
 body {
-  background-image: blue;
+  background-image: violet;
     font-family: Times New Roman, sans-serif; 
     color: white;
 }
 .kartu-profil {
-  width: 300px;
+  width: 250px;
   margin: 50px auto;
   padding: 20px;
   background-color: Violet;
