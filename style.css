@@ -1,5 +1,5 @@
 body {
-  background-image: light brown;
+  background-image: brown;
     font-family: Times New Roman, sans-serif; 
     color: black;
 }
@@ -7,7 +7,7 @@ body {
   width: 300px;
   margin: 50px auto;
   padding: 20px;
-  background-color: light brown;
+  background-color: brown;
   border-radius:15px;
   box-shadow: 0 4px rgba(0,0,0.1);
   text-align: center;
