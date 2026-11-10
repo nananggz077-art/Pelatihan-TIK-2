@@ -1,3 +1,3 @@
-const pencettombol = document.getElementById('sapaButton')
-pencettombol.addEventListener('click', function() {
+const pencet-tombol = document.getElementById('sapaButton')
+pencet-tombol.addEventListener('click', function() {
   alert('halo! Terima Kasih Sudah Berkunjung!')
