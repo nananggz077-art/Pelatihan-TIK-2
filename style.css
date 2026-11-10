@@ -1,7 +1,7 @@
 body {
-  background-image: url("paper.gif");
+  background-image: blue;
     font-family: Times New Roman, sans-serif; 
-    color: purple;
+    color: black;
 }
 .kartu-profil {
   width: 300px;
