@@ -7,7 +7,7 @@ body {
     width: 300px;
     margin: 50px auto;
     pandding: 20px;
-    background-color: #D2B48C
+    background-color: #F5DEB3;
     border-radius:15px;
     box-shadow: 0 4px rgba(0,0,0.1);
     text-align: center;
@@ -17,5 +17,5 @@ body {
     border-radius: 50%;
 }
 .kartu-profil button:hover {
-    background-color: #536B50;
+    background-color: #F5DEB3
 }
